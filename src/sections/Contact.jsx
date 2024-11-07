@@ -48,11 +48,6 @@ const Contact = () => {
             <div
             className="relative min-h-screen flex items-center justify-center flex-col"
             >
-                <h3
-                className="head-text"
-                >
-                    Contact Me
-                </h3>
                 <img
                 src="/assets/terminal.png"
                 alt="terminal background"
